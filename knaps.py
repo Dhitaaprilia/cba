@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 st.title("""
-form input data
+Cek Data
 """)
 
 #Fractional Knapsack Problem
@@ -20,6 +20,6 @@ submit = st.button("submit")
 
 
 if submit:
-    st.info("Jadi,dinyakataan . ")
+    st.info("Maka, . ")
 
 
